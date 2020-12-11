@@ -3,14 +3,14 @@
    Para elegir el tema de la trivia, nos inclinamos hacia el sector entretenimiento, consideramos música , series y películas.
    Teniendo en cuenta el contexto actual, en el que más personas tienen acceso a recursos audiovisuales y plataformas de este tipo, por ejemplo, la plataforma Netflix duplicó sus suscriptores en la cuarentena global.Es por ello que decidimos realizar una trivia sobre Netflix.
 
-PROTIPO DE BAJA FIDELIDAD
+## PROTIPO DE BAJA FIDELIDAD
  En primer lugar elaboramos el Prototipo de baja fidelidad, de acuerdo a como creímos que se vería mejor y sería factible programar.
         Imagen1
         Imagen2
- PROTIPO DE ALTA FIDELIDAD
-
+        
+## PROTIPO DE ALTA FIDELIDAD
 Continuamos en Figma, trabajando conjuntamente en la elaboración de 5 frameworks:
-     <a href= s"https://www.figma.com/proto/GI6YAtZKnHIYK7fg3CCTZG/First-job?node-id=34%3A2&scaling=scale-down" </a>
+     <a href= "https://www.figma.com/proto/GI6YAtZKnHIYK7fg3CCTZG/First-job?node-id=34%3A2&scaling=scale-down" </a>
 
 # LENGUAJES DE MARCADO
 ## HTML5
