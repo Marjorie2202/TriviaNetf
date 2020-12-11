@@ -61,21 +61,19 @@ Usamos function:
 
 document.getElementById nos devuelve un Elementobjeto que representa el elemento cuya idpropiedad coincide con la cadena especificada en este caso el id es "name" se ha trabajado varias para llamar id del html.
 
-function play(){}
-[var welcome = document.getElementById("name").value ;]
+[function play(){
+ var welcome = document.getElementById("name").value ;]
   function series(){}
 [if (screen3.style.display = "none") {
         screen3.style.display = "block";
         screen2.style.display ="none";
     } else {
-        screen3.style.display ="none";]
+        screen3.style.display ="none";}]
         
   Esta funcion usamos para que busque en todo el html y seleccion de acuerdo a los parametros:
   -input
   -type=radio
   -checked ( que el usuario escoga una opcion)
-  
-function score(){}
 [function score() {
 
     var selected=document.querySelectorAll('input[type="radio"]:checked');
