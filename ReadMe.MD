@@ -15,7 +15,7 @@ Continuamos en Figma, trabajando conjuntamente en la elaboración de 5 framework
 # LENGUAJES DE MARCADO
 ## HTML5
 La estructura es la estructura similar pero con dos lineas particulares que significan:
-<!DOCTYPE html> <!--Etiqueta no tiene inicio o cierre-->
+<!DOCTYPE html> <!--Etiqueta no tiene inicio o cierre
 <html lang="es"><!--Etiqueta de apertura, lang="es" (es un atributo)=> significa lenguaje español-->
   <head><!--contiene informacion general como <meta>;<Title>;<link> en este proyecto tiene:-->
   <meta charset="UTF-8">
@@ -35,7 +35,7 @@ En varias lineas usamos <br> etiqueta para ingresar saltos de línea.
 
 <form> usamos esta etiqueta para crear formularios, cada <form> tiene un <id> en nuestro caso hay 6 con sus respectivos <id>. Dentro de <form> hay <input type="radio" id="answer1" name="grupoA" value="incorrecto>
 <input type = "radio"> : <input>etiqueta especifica un campo de entrada donde el usuario puede ingresar datos de varios tipos en nuestro caso un <input type = "radio"> Define un botón en el que se puede hacer clic.
-Por ejemplo:
+Por ejemplo
 
 <input type="radio"> Maria Pedrasa
 
@@ -48,12 +48,10 @@ Por ejemplo:
 Declaramos variables y ocultamos screens 2 al 5, con style.display
 
 Usamos function:
-
 function play(){}
 function series(){}
 function peliculas(){}
 function score(){}
-
 
 # CSS
 Usamos html,body{
