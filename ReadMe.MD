@@ -24,9 +24,9 @@ La estructura es la estructura similar pero con dos lineas particulares que sign
     <link rel="stylesheet" href="Trivia.css"><!--  rel= Crea un hipervínculo ; href= atributo de vincular a css en este caso-->
 
 ### Division por bloques
- <body><!--contiene el documento en si-->
-    <div id= > <!--<div> etiqueta y define una división en este programa divide la pantalla de bienvienda a pantalla de elegir categorias tambien divide la pantalla de preguntas de series y peliculas -->
-<id="screen1">  <!--atributo especifica una identificación única en este caso "screeen1"  es la identificacion para la pantalla de bienvenida.
+En esta parte del HTML, usamos:
+   * div id= ; etiqueta y define una división en este programa divide la pantalla de bienvienda a pantalla de elegir categorias tambien divide la pantalla de preguntas de series y peliculas
+   * id="screen1"; atributo especifica una identificación única en este caso "screeen1"  es la identificacion para la pantalla de bienvenida.
 
 ### Alineacion de textos
 En varias lineas usamos <br> etiqueta para ingresar saltos de línea.
