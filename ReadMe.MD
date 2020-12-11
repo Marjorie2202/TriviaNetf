@@ -4,13 +4,23 @@
    Teniendo en cuenta el contexto actual, en el que más personas tienen acceso a recursos audiovisuales y plataformas de este tipo, por ejemplo, la plataforma Netflix duplicó sus suscriptores en la cuarentena global.Es por ello que decidimos realizar una trivia sobre Netflix.
 
 ## PROTIPO DE BAJA FIDELIDAD
- En primer lugar elaboramos el Prototipo de baja fidelidad, de acuerdo a como creímos que se vería mejor y sería factible programar.
-        [Imagen1](PrototipoBaja1.jpg)
-        [Imagen2](PrototipoBaja2.jpg)
-        
+ En primer lugar elaboramos el Prototipo de baja fidelidad, de acuerdo a como creímos que se vería mejor y sería factible programar. Para ello elaboramos sketches con 4 pantallas:
+ <br/>
+  *1)* [Prototipo baja fidelidad pantallas 1,2](PrototipoBaja1.jpg)
+  <br/>
+  *2)* [Prototipo baja fidelidad pantallas 3,4](PrototipoBaja2.jpg)
+       
 ## PROTIPO DE ALTA FIDELIDAD
-Continuamos en Figma, trabajando conjuntamente en la elaboración de 5 frameworks:
-     <a href= "https://www.figma.com/proto/GI6YAtZKnHIYK7fg3CCTZG/First-job?node-id=34%3A2&scaling=scale-down" </a>
+Para pasar nuestro prototipo de baja a alta fidelidad, realizamos preguntas a algunos de nuestros amigos y familiares, que principalmente nos dieron como feedback:
+- Que el botón de play diga "Play" debajo del botón, ya que si lo colocábamos encima o al lado, podrían parecer botones distintos.
+- Colocar el simbolo de Netflix en vez de Imagenes de series y películas.
+- Que utilicemos los colores caracterpisticos de Netflix y no otros.
+- Que utilicemos imágenes grandes alusivas a las series y películas, en vez de colocar explícitamente el nombre.
+- Que de jugar la trivia, la mayoría lo haría desde su computadora o PC.
+
+De esta forma,continuamos en Figma, trabajando conjuntamente en la elaboración de 5 frameworks cuyo enlace es:
+ ("https://www.figma.com/file/GI6YAtZKnHIYK7fg3CCTZG/First-job?node-id=26%3A2")
+    
 
 # LENGUAJES DE MARCADO
 ## HTML5
