@@ -5,8 +5,8 @@
 
 ## PROTIPO DE BAJA FIDELIDAD
  En primer lugar elaboramos el Prototipo de baja fidelidad, de acuerdo a como creímos que se vería mejor y sería factible programar.
-        Imagen1
-        Imagen2
+        [Imagen1](PrototipoBaja1.jpg)
+        [Imagen2](PrototipoBaja2.jpg)
         
 ## PROTIPO DE ALTA FIDELIDAD
 Continuamos en Figma, trabajando conjuntamente en la elaboración de 5 frameworks:
