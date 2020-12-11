@@ -1,4 +1,4 @@
- # Proceso de Diseño de la pagina web Netflix Trivia
+ # Proceso de Diseño de la web: Netflix Trivia
 
    Para elegir el tema de la trivia, nos inclinamos hacia el sector entretenimiento, consideramos música , series y películas.
    Teniendo en cuenta el contexto actual, en el que más personas tienen acceso a recursos audiovisuales y plataformas de este tipo, por ejemplo, la plataforma Netflix duplicó sus suscriptores en la cuarentena global.Es por ello que decidimos realizar una trivia sobre Netflix.
