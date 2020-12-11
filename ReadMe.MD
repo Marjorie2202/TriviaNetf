@@ -20,7 +20,7 @@ Para pasar nuestro prototipo de baja a alta fidelidad, realizamos preguntas a al
 
 De esta forma,continuamos en Figma, trabajando conjuntamente en la elaboración de 5 frameworks cuyo enlace es:
  ("https://www.figma.com/file/GI6YAtZKnHIYK7fg3CCTZG/First-job?node-id=26%3A2")
-    
+  
 
 # LENGUAJES DE MARCADO
 ## HTML5
@@ -64,10 +64,14 @@ function peliculas(){}
 function score(){}
 
 # CSS
-Usamos html,body{
-    background-color: black;
-    height:100%;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-}
+Usamos body
+ *** 1.background-color: black;
+    2.height:100%;
+    3.margin: 0;
+    4.display: flex;
+    5.flex-direction: column***
+    
+- Los anteriores mencionados son atributos que recibira toda la pantalla de bienvenida.
+- Los colores definidos  en cada pantalla ha sido negro buscando lograr el prototipo de alta fidelidad.
+- El texto son centrados con [text-align]
+- Los colores del texto son blancos[color:white] para resaltar en fondo negro[background-color:black] 
