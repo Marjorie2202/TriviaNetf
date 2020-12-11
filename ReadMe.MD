@@ -65,11 +65,11 @@ function score(){}
 
 # CSS
 Usamos body
- *** 1.background-color: black;
-    2.height:100%;
-    3.margin: 0;
-    4.display: flex;
-    5.flex-direction: column***
+ 1.background-color: black
+ 2.height:100%
+ 3.margin: 0
+ 4.display: flex
+ 5.flex-direction: column
     
 - Los anteriores mencionados son atributos que recibira toda la pantalla de bienvenida.
 - Los colores definidos  en cada pantalla ha sido negro buscando lograr el prototipo de alta fidelidad.
